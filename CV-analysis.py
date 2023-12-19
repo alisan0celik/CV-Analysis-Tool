@@ -1,3 +1,6 @@
+
+# The code was created by Alişan Çelik
+
 import os
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
@@ -71,3 +74,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# The code was created by Alişan Çelik
